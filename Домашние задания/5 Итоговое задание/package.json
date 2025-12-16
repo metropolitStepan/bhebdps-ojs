@@ -1,0 +1,12 @@
+{
+  "name": "final-rpg-task",
+  "version": "1.0.0",
+  "description": "Итоговое задание 5. RPG персонажи",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
